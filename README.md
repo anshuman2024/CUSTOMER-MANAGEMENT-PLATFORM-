@@ -1,1 +1,1 @@
-# CUSTOMER-MANAGEMENT-PLATFORM-
+# crm-oversimplified
